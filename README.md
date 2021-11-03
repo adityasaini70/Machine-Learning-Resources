@@ -26,6 +26,7 @@ The following notes stem from the course ['Machine Learning'](https://www.course
 ## Awesome blogs
 
 - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+- [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
 - [Introduction to Explainable AI(XAI) using LIME](https://www.geeksforgeeks.org/introduction-to-explainable-aixai-using-lime/)
 - [Variational Autoencoders (VAEs) for Dummies](https://towardsdatascience.com/variational-autoencoders-vaes-for-dummies-step-by-step-tutorial-69e6d1c9d8e9)
 - [Implement Deep Autoencoder in PyTorch for Image Reconstruction](https://www.geeksforgeeks.org/implement-deep-autoencoder-in-pytorch-for-image-reconstruction/)
