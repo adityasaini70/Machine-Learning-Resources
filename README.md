@@ -1,4 +1,4 @@
-# Machine Learning :mage:
+# Machine Learning Resources :mage:
 
 This repository is a personal collection of some useful Machine Learning resources like blogs, articles, research papers, course reviews etc for easy reference. Any useful PRs are appreciated!
 
