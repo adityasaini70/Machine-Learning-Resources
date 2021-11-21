@@ -17,13 +17,13 @@ The following notes stem from the course ['Machine Learning'](https://www.course
 | 7.  | [Anomaly Detection](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week9-PartA-AnomalyDetection.pdf) |
 | 8.  | [Recommendation Systems](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week9-PartB-RecommendationSystems.pdf) |
 
-## Useful books
+## Books
 - [Pattern Recognition and Machine Learning - Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [Machine Learning: A Probabilistic perspective- Kevin P. Murphy](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [Hands-On Machine Learning with Scikit-learn, Keras & Tensorflow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
 
-## Awesome blogs
+## Blogs
 
 - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
 - [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
