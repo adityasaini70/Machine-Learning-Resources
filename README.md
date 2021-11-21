@@ -13,7 +13,7 @@ The following notes stem from the course ['Machine Learning'](https://www.course
 | 3.  | [Logistic Regression](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week3-LogisticRegression.pdf) |
 | 4.  | [Introduction to Neuralnetworks](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week_4.pdf) |
 | 5.  | [Training neural networks: Forward and backward propagation](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week3-LogisticRegression.pdf) |
-| 6.  | [Unsupervised learning: PCA and KNN clustering](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week%208.pdf) |
+| 6.  | [Unsupervised learning: PCA and K-means clustering](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week%208.pdf) |
 | 7.  | [Anomaly Detection](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week9-PartA-AnomalyDetection.pdf) |
 | 8.  | [Recommendation Systems](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week9-PartB-RecommendationSystems.pdf) |
 
