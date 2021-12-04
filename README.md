@@ -1,6 +1,6 @@
 # Machine Learning Resources :mage:
 
-This repository is a personal collection of some useful Machine Learning resources like blogs, articles, research papers, course reviews etc for easy reference. Any useful PRs are appreciated!
+This repository is a personal collection of some useful Machine Learning resources like blogs, articles, research papers, course reviews etc for easy reference. Useful PRs are appreciated!
 
 ## Topic wise notes
 The following notes stem from the course ['Machine Learning'](https://www.coursera.org/learn/machine-learning) organized by Prof. Andrew Ng, Stanford at Coursera. They can serve as a good refresher of some basic topics in Machine Learning, apart from being a helpful aid in the course. You can also check out a week-wise distribution of these notes and the assignments at this [link](https://github.com/adityasaini70/Machine-Learning/tree/master/Courses/Machine%20Learning%20-%20Andrew%20Ng).
