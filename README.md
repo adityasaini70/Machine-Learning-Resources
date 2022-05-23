@@ -40,3 +40,4 @@ The following notes stem from the course ['Machine Learning'](https://www.course
 - [CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Probabilistic Machine Learning by Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 - [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1&t=1883s)
+- [Awesome explanation about GMMs](https://www.youtube.com/watch?v=qMTuMa86NzU)
