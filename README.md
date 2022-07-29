@@ -32,6 +32,7 @@ The following notes stem from the course ['Machine Learning'](https://www.course
 - [Implement Deep Autoencoder in PyTorch for Image Reconstruction](https://www.geeksforgeeks.org/implement-deep-autoencoder-in-pytorch-for-image-reconstruction/)
 - [Visualizing the Bivariate Gaussian Distribution in Python](https://www.geeksforgeeks.org/visualizing-the-bivariate-gaussian-distribution-in-python/)
 - [How to set up and Run CUDA Operations in Pytorch ?](https://www.geeksforgeeks.org/how-to-set-up-and-run-cuda-operations-in-pytorch/)
+- [Variational AutoEncoders (VAE) with PyTorch](https://avandekleut.github.io/vae/)
 
 ## Lecture series
 
